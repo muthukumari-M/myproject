@@ -1,14 +1,5 @@
-<<<<<<< HEAD
-*
-{
-    margin:0;
-    padding:0;
-    box-sizing: border-box;
-}
 h1
 {
-=======
-h1{
->>>>>>> feature1
-    color:red;
+    background-color: yellow;
+    
 }
